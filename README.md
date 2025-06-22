@@ -5,18 +5,18 @@ This project performs Exploratory Data Analysis (EDA) on a dataset of Olympic at
 The dataset used is dataset_olympics.csv, which includes information about athletes, countries, medals, events, and Olympic years.
 
 Technologies Used:
-> Python
-> Pandas for data manipulation
-> Matplotlib and Seaborn for data visualization
-> Jupyter Notebook for interactive analysis
+1. Python
+2. Pandas for data manipulation
+3. Matplotlib and Seaborn for data visualization
+4. Jupyter Notebook for interactive analysis
 
 Features / Analysis Performed:
-> Loading and cleaning the Olympics dataset
-> Handling null values and data types
-> Exploring distributions of athlete participation by:
+1. Loading and cleaning the Olympics dataset
+2. Handling null values and data types
+3. Exploring distributions of athlete participation by:
     Country
     Year
     Gender
     Event
-> Identifying medal winners and top-performing nations
-> Visualizing trends over time using bar plots, count plots, and line charts
+4. Identifying medal winners and top-performing nations
+5. Visualizing trends over time using bar plots, count plots, and line charts
